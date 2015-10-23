@@ -1,5 +1,5 @@
 {
-  "name": "hapi-swaggered-ui",
+  "name": "@resolver/hapi-swaggered-ui",
   "description": "Easy swagger-ui drop-in plugin for hapi to be used with hapi-swaggered.",
   "version": "2.1.0",
   "author": "Timo Behrmann",
